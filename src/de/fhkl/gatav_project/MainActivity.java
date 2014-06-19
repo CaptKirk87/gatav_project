@@ -1,5 +1,8 @@
-package com.example.gatav_project;
+package de.fhkl.gatav_project;
 
+import de.fhkl.gatav_project.R.id;
+import de.fhkl.gatav_project.R.layout;
+import de.fhkl.gatav_project.R.menu;
 import android.app.Activity;
 import android.app.ActionBar;
 import android.app.Fragment;
