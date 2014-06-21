@@ -14,9 +14,9 @@ public class CubePosition {
 	private final FloatBuffer vertexData;
 
 	public CubePosition() {
-		// Spielfeld
+		// Spielfeld (besteht aus 3 Dreiecken die ein Rechteck bilden)
 		float[] feldEckpunkte = {
-				// Rechteck1
+				// Dreieck1
 				0f, 0f, // unten links
 				9f, 9f, // oben rechts
 				0f, 9f, // oben links
