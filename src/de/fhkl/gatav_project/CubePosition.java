@@ -49,6 +49,6 @@ public class CubePosition {
 				.order(ByteOrder.nativeOrder()).asFloatBuffer();
 		
 		vertexData.put(feldEckpunkte);
-		//y
+		
 	}
 }
