@@ -3,6 +3,11 @@
 
     <string name="app_name">GATAV_Project</string>
     <string name="action_settings">Settings</string>
-    //test
+    <string name="Ueberschrift">GATAV_Project</string>
+    <string name="Button1">Spielen</string>
+    <string name="Button2">Platzhalter</string>
+    <string name="Button3">Platzhalter2</string>
+    <string name="Button4">Platzhalter3</string>
+    
 
 </resources>
