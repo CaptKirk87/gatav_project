@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class MainActivity extends Activity {
+public class CubeGameActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
