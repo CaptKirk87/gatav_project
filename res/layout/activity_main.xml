@@ -6,17 +6,5 @@
     tools:context="de.fhkl.gatav_project.CubeGameActivity"
     tools:ignore="MergeRootFrame" >
 
-    <Button
-        android:id="@+id/button1"
-        style="?android:attr/buttonStyleSmall"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button" />
-
-    <RatingBar
-        android:id="@+id/ratingBar1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
 </FrameLayout>
 
